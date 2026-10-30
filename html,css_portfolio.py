@@ -944,7 +944,7 @@ Original file is located at
 #                     <!-- Profile image and student information -->
 #                     <div class="profile-wrap">
 # 
-#                         <div class="profile-photo">
+#                         <div class="photo (3).jpg">
 # 
 #                             <!-- Demo initials.
 #                                  Replace this div with an img tag to add a photo. -->
